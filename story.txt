@@ -1,0 +1,33 @@
+S1: You are on a pier
+    C1: Inhale the ocean air
+        S2: You are still on the pier. You feel refreshed and at peace.
+            C1: Take another breath. It wont hurt
+                S3: Surprised that nothing has still happened, you wonder if the day will bring anything else
+                    C1: Try one more deep breath. Third time's the charm
+                        S4: You take such a deep breath that you drag in a nearby seagull looking for food in a trashcan.
+                            C1: Thankful that so much breathing finally led to something you want to keep going. Imagine the possibilities
+                                S5: Unrelenting you breathe in so intensely that you create a vacuum in your immediate vicinity. This all meets a tragic end once the seagull has well and fully blocked your throat, making the pier your final resting place
+                            C2: Not appreciating such a large bird near your breathing organs, you conclude that breathing probably isn't the way forward
+                                S5: You spit out a few remaining feathers. Ocean air really isn't as helpful as the doctor promised. Time to head home
+                    C2: You're bored. You turn around and head home
+                        S4: In spirit with your previous experiences, nothing dramatic happens. You sit in your living room wondering where exciting things happen.
+            C2: Look for a bench. You could use a nap
+                S3: There's a lot of benches on the pier, but most of them are covered in bird poop.
+                    C1: Find the one with the least amount of poop and lie down
+                        S4: The endeavour is fruitless. You accept your fate and lie down on the closest bench, placing your head in the safest end. The smell isn't that bad
+                    C2: Filled with anger, you go looking for a bird to teach a lesson on respecting public space
+                        S4: After lying in wait for half an hour, you manage to pounce an unsuspecting seagull ravaging a trashcan. How should this bird be punished?
+                            C1: Repeatedly hit its head against the bench covered in the highest amount of shit.
+                            C2: Looking at the desperation in the surprised bird's eyes, you start to have second thoughts.
+                            C3: You conclude that taking the bird home and keeping it as prisoner will be the most appropriate.
+                    C3: You're not really in the mood for such a direct meeting with nature. You look for an alternative
+
+    C2: Jump headfirst into the water
+        S2: The water is colder than anticipated - you feel the cramps setting in
+            C1: Attempt to climb the nearest ladder
+            C2: Dive deeper. You feel at one with the water
+    C3: Look for the nearest ice cream shop
+        S2: You see a run-down square with a rusted sign of an ice cone on top
+            C1: They might have some interesting flavors. Investigate further
+            C2: If this place is inhabited by anybody, it's probably drug dealers. Keep looking.
+

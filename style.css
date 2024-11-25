@@ -1,0 +1,48 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(142, 228, 228);
+  color: rgb(74, 65, 59);
+  text-align: center;
+  margin: 0;
+}
+#options {
+  margin: 2em;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content:center;
+  /* border: 1px brown solid; */
+}
+#game {
+  /* border: black solid 1px; */
+}
+
+button {
+  padding: 2em;
+  margin: 1em;
+  background-color: yellow;
+}
+#title {
+  /* border: 3px solid red; */
+  /* margin: 1em; */
+  color: rgb(58, 58, 196);
+  padding: 1em;
+  background-color: rgb(168, 235, 168);
+  /* color: orange; */
+}
+
+h2 {
+/* #situation { */
+  text-align: center;
+  padding: 1em;
+  margin: 1em;
+  background-color: greenyellow;
+}
+
+.option {
+  cursor: pointer;
+}
+
+#scene{
+    margin: 0;
+}
